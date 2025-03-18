@@ -7,31 +7,27 @@ export const footerDetails: {
     telephone: string;
     socials: ISocials;
 } = {
-    subheading: "Empowering businesses with cutting-edge financial technology solutions.",
+    subheading: "Revolutionizing finance with AI-driven banking, smart investments, and real-time fraud protection.",
     quickLinks: [
         {
-            text: "Features",
+            text: "AI Features",
             url: "#features"
         },
         {
-            text: "Pricing",
-            url: "#pricing"
+            text: "Security",
+            url: "#security"
         },
         {
-            text: "Testimonials",
-            url: "#testimonials"
+            text: "Investment Insights",
+            url: "#investments"
         }
     ],
-    email: 'address@yoursite.com',
-    telephone: '+1 (123) 456-7890',
+    email: 'support@aibank.com',
+    telephone: '+1 (800) AI-BANK-1',
     socials: {
-        // github: 'https://github.com',
-        // x: 'https://twitter.com/x',
-        twitter: 'https://twitter.com/Twitter',
-        facebook: 'https://facebook.com',
-        // youtube: 'https://youtube.com',
-        linkedin: 'https://www.linkedin.com',
-        // threads: 'https://www.threads.net',
-        instagram: 'https://www.instagram.com',
+        twitter: 'https://twitter.com/AIBank',
+        facebook: 'https://facebook.com/AIBank',
+        linkedin: 'https://www.linkedin.com/company/aibank',
+        instagram: 'https://www.instagram.com/AIBankOfficial',
     }
 }

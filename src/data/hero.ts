@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
+    heading: 'AI-Powered Banking for a Smarter Future',
+    subheading: 'Experience intelligent financial management with automated budgeting, AI-driven investments, and real-time fraud protection. AIBank puts the future of finance in your hands.',
     centerImageSrc: '/images/hero-mockup.webp',
 }

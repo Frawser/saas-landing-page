@@ -2,36 +2,38 @@ import { IPricing } from "@/types";
 
 export const tiers: IPricing[] = [
     {
-        name: 'Starter',
+        name: 'Essential',
         price: 29,
         features: [
-            'Basic cloud integration',
-            'Up to 5 team members',
-            '20GB storage',
+            'AI-powered budgeting tools',
+            'Real-time fraud alerts',
+            'Up to 5 linked bank accounts',
+            'Standard encryption security',
             'Email support',
         ],
     },
     {
-        name: 'Pro',
+        name: 'Growth',
         price: 99,
         features: [
-            'Advanced cloud integration',
-            'Up to 20 team members',
-            '100GB storage',
+            'Automated investment insights',
+            'Smart financial forecasting',
+            'Up to 20 linked bank accounts',
+            'Advanced AI fraud detection',
             'Priority email & phone support',
-            'Advanced analytics',
+            'Detailed financial analytics',
         ],
     },
     {
         name: 'Enterprise',
         price: 'Custom',
         features: [
-            'Full cloud integration',
-            'Unlimited team members',
-            'Unlimited storage',
+            'AI-driven portfolio management',
+            'Unlimited linked bank accounts',
+            'Custom AI financial strategy',
             '24/7 dedicated support',
-            'Custom solutions',
-            'On-site training',
+            'Enterprise-grade security',
+            'Personalized on-site training',
         ],
     },
 ]

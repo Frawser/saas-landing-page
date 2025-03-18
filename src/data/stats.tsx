@@ -7,7 +7,7 @@ export const stats: IStats[] = [
     {
         title: "20M+",
         icon: <BsBarChartFill size={34} className="text-blue-500" />,
-        description: "Transactions processed securely every day, providing real-time insights."
+        description: "Transactions processed securely every day with AI, providing real-time insights."
     },
     {
         title: "5.0",
@@ -17,6 +17,6 @@ export const stats: IStats[] = [
     {
         title: "200+ ",
         icon: <PiGlobeFill size={34} className="text-green-600" />,
-        description: "Financial Institutions, seamlessly integrated, so you can manage all accounts."
+        description: "Financial Institutions, seamlessly integrated, so you can manage all accounts in one place."
     }
 ];

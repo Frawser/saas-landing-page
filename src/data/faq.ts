@@ -4,22 +4,22 @@ import { siteDetails } from "./siteDetails";
 export const faqs: IFAQ[] = [
     {
         question: `Is ${siteDetails.siteName} secure?`,
-        answer: 'Absolutely. We use bank-level encryption to protect your data and never store your login information. Plus, our biometric authentication adds an extra layer of security.',
+        answer: 'Absolutely. AIBank uses military-grade encryption, AI-driven fraud detection, and biometric authentication to ensure your financial data is fully protected.',
     },
     {
         question: `Can I use ${siteDetails.siteName} on multiple devices?`,
-        answer: 'Absolutely! Your Finwise account syncs seamlessly across all your devices - smartphone, tablet, and computer.',
+        answer: 'Yes! AIBank seamlessly syncs across your smartphone, tablet, and desktop, so you can access your finances anytime, anywhere.',
     },
     {
         question: 'Can I connect all my bank accounts?',
-        answer: `Yes! ${siteDetails.siteName} supports connections with over 10,000 financial institutions worldwide. Simply log in through our secure portal to link your accounts.`
+        answer: `Yes! ${siteDetails.siteName} integrates with thousands of financial institutions worldwide, allowing you to manage all your accounts from one AI-powered dashboard.`
     },
     {
-        question: 'Do I need any financial expertise to use the investing features?',
-        answer: 'Not at all! Our expert-curated portfolios and educational resources make investing accessible to everyone, regardless of experience level.',
+        question: 'Do I need financial expertise to use the AI investment features?',
+        answer: 'Not at all! AIBank’s AI-driven investment engine provides personalized portfolio recommendations, risk analysis, and real-time insights—making investing effortless for everyone.'
     },
     {
-        question: 'What if I need help using the app?',
-        answer: 'Our dedicated support team is available 24/7 via chat or email. Plus, we offer extensive in-app tutorials and a comprehensive knowledge base to help you make the most of Finwise.'
+        question: 'What if I need help using the platform?',
+        answer: 'Our AI-powered support assistant is available 24/7 to guide you. Plus, our expert support team is just a message away via chat or email, ensuring you get the assistance you need.'
     }
 ];

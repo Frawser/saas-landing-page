@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'Finwise',
+    siteName: 'AIBank',
     siteUrl: 'https://finwise-omega.vercel.app/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'Saas Landing Page',
+        description: 'Look how your website might look one day!',
     },
     language: 'en-us',
     locale: 'en-US',
